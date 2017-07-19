@@ -8,4 +8,6 @@ Start DUMLdore.exe<br>
 
 **NOTE**: Make sure you have atleast 50% battery remaining before you begin
 
+Thanks to hostile, the_lord, p0v and many others for the information :)
+
 -jezzab
