@@ -5,8 +5,9 @@ Compatible with:<br>
 **Remote Control:** *Mavic*<br>
 **Goggles**: *DJI*<br>
 
-Turn on the Aircraft and allow it to fully start up<br>
-Plug in USB cable from the aircraft to the PC<br>
+Make sure Assistant2 is not running<br>
+Turn on the aircraft/RC and allow it to fully start up<br>
+Plug in USB cable from the aircraft/RC to the PC<br>
 Start DUMLdore.exe<br>
 
 **LOAD:** Will load a firmware file to flash. Some error checking is done to make sure it is valid. It is not perfect and up to the user to make sure it is.<br>
