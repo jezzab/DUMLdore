@@ -21,4 +21,4 @@ Thanks to hostile, the_lord, p0v and many others for the information :)
 
 *-jezzab*
 
-***DOWNLOAD THE ENTIRE ZIP FILE***
+***DOWNLOAD THE ENTIRE ZIP FILE NOT JUST THE EXE***
