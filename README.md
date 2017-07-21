@@ -5,6 +5,7 @@ Compatible with:<br>
 **Remote Control:** *Mavic*<br>
 **Goggles:** *DJI*<br>
 
+**DOWNLOAD THE ENTIRE ZIP FILE NOT JUST THE EXE**<br>
 Make sure Assistant2 is not running<br>
 Turn on the aircraft/RC and allow it to fully start up<br>
 Plug in USB cable from the aircraft/RC to the PC<br>
@@ -20,5 +21,3 @@ Start DUMLdore.exe<br>
 Thanks to hostile, the_lord, p0v and many others for the information :)
 
 *-jezzab*
-
-***DOWNLOAD THE ENTIRE ZIP FILE NOT JUST THE EXE***
