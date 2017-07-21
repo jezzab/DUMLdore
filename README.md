@@ -20,3 +20,5 @@ Start DUMLdore.exe<br>
 Thanks to hostile, the_lord, p0v and many others for the information :)
 
 *-jezzab*
+
+***DOWNLOAD THE ENTIRE ZIP FILE***
