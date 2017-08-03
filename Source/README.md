@@ -4,6 +4,9 @@ Built using C# in Visual Studio 15
 Requirements:<br>
 WinSCP .NET Assembly https://winscp.net/eng/download.php<br>
 OpenSSL x86/x64 Binary https://indy.fulgan.com/SSL/<br>
+GNU tar Binary http://gnuwin32.sourceforge.net/packages/gtar.htm<br>
+
+
 
 
 ### #DeejayeyeHackingClub information repos aka "The OG's" (Original Gangsters)
