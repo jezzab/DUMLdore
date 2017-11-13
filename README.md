@@ -2,7 +2,7 @@
 
 Compatible with:<br>
 **Aircraft:** *P4, P4 Pro, Mavic, Spark, I2*<br>
-**Remote Control:** *Mavic*<br>
+**Remote Control:** *Mavic, Spark*<br>
 **Goggles:** *DJI*<br>
 
 **DOWNLOAD THE ENTIRE ZIP FILE NOT JUST THE EXE**<br>
