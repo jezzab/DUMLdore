@@ -14,6 +14,7 @@ Start DUMLdore.exe<br>
 **LOAD:** Will load a firmware file to flash. Some error checking is done to make sure it is valid. It is not perfect and up to the user to make sure it is.<br>
 **FLASH:** Upload the firmware file to the device and begin the upgrade/downgrade.<br>
 **BACKUP:** Will make a flashable firmware backup of the currently connected device if applicable. It will save the dji_system.bin file into the current directory. It may take some time. Please be patient as the status may take a few moments to update on some of the files.<br>
+**UNLOCK SPARK:** Unlock a Spark that has been grounded due to not upgrading the firmware by 1 Sept 2017<br>
 
 **NOTE**: Make sure you have atleast 50% battery remaining before you begin<br>
 **FIRMWARE FILES:** https://github.com/MAVProxyUser/dji_system.bin
