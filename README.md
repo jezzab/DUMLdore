@@ -5,10 +5,14 @@ Compatible with:<br>
 **Remote Control:** *Mavic, Spark*<br>
 **Goggles:** *DJI*<br>
 
-**DOWNLOAD THE ENTIRE ZIP FILE NOT JUST THE EXE**<br>
+---
+Firmware version V1.4.0100 is not supported at this time. You will not be able to backup or downgrade 
+
+---
+
 Make sure Assistant2 is not running<br>
+Plug in USB cable from the aircraft or RC into the PC<br>
 Turn on the aircraft/RC and allow it to fully start up<br>
-Plug in USB cable from the aircraft/RC to the PC<br>
 Start DUMLdore.exe<br>
 
 **LOAD:** Will load a firmware file to flash. Some error checking is done to make sure it is valid. It is not perfect and up to the user to make sure it is.<br>
