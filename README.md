@@ -21,7 +21,7 @@ Start DUMLdore.exe<br>
 **UNLOCK SPARK:** Unlock a Spark that has been grounded due to not upgrading the firmware by 1 Sept 2017<br>
 
 **NOTE**: Make sure you have atleast 50% battery remaining before you begin<br>
-**FIRMWARE FILES:** https://github.com/MAVProxyUser/dji_system.bin
+**FIRMWARE FILES:** https://github.com/cs2000/DankDroneDownloader
 
 Thanks to hostile, the_lord, p0v and many others for the information :)
 
