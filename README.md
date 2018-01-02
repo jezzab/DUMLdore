@@ -5,11 +5,6 @@ Compatible with:<br>
 **Remote Control:** *Mavic, Spark*<br>
 **Goggles:** *DJI*<br>
 
----
-Firmware version V1.4.0100 is not supported at this time. You will not be able to backup or downgrade 
-
----
-
 Make sure Assistant2 is not running<br>
 Plug in USB cable from the aircraft or RC into the PC<br>
 Turn on the aircraft/RC and allow it to fully start up<br>
