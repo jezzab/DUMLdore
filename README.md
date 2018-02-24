@@ -14,7 +14,7 @@ Start DUMLdore.exe<br>
 **FLASH:** Upload the firmware file to the device and begin the upgrade/downgrade.<br>
 **BACKUP:** Will make a flashable firmware backup of the currently connected device if applicable. It will save the dji_system.bin file into the current directory. It may take some time. Please be patient as the status may take a few moments to update on some of the files.<br>
 **UNLOCK SPARK:** Unlock a Spark that has been grounded due to not upgrading the firmware by 1 Sept 2017<br>
-**ACTIVATE MAVIC:** Offline activate Mavic<br>
+**ACTIVATE MAVIC:** Offline activate Mavic and some other aircraft<br>
 
 **NOTE**: Make sure you have atleast 50% battery remaining before you begin<br>
 **FIRMWARE FILES:** https://github.com/cs2000/DankDroneDownloader
@@ -23,8 +23,6 @@ Thanks to hostile, the_lord, p0v and many others for the information :)
 
 *-jezzab*
 
-Source code:<br>
-https://www.github.com/jezzab/DUMLdore-src
 
 ### #DeejayeyeHackingClub information repos aka "The OG's" (Original Gangsters)
 
