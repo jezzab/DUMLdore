@@ -14,7 +14,7 @@ Start DUMLdoreV3.exe<br>
 **FLASH:** Upload the firmware file to the device and begin the upgrade/downgrade.<br>
 **PULL UPGRADE LOGS:** Download the last upgrde log in tar/gzip<br>
 **UNLOCK DEVICE:** Unlock a device that has been grounded due to not upgrading the firmware by 1 Sept 2017<br>
-**ACTIVATE DEVICE:** Offline activate SOME devices (MavicPro, P4) Reults may vary<br>
+**ACTIVATE DEVICE:** Offline activate SOME devices (MavicPro, P4, Spark) Reults may vary<br>
 
 **NOTE**: Make sure you have atleast 50% battery remaining before you begin<br>
 **FIRMWARE FILES:** https://github.com/cs2000/DankDroneDownloader
