@@ -15,9 +15,10 @@ Start DUMLdoreV3.exe<br>
 **PULL UPGRADE LOGS:** Download the last upgrde log in tar/gzip<br>
 **UNLOCK DEVICE:** Unlock a device that has been grounded due to not upgrading the firmware by 1 Sept 2017<br>
 **ACTIVATE DEVICE:** Offline activate SOME devices (MavicPro, P4, Spark) Reults may vary<br>
+**ADB ENABLE:** Instantly enable ADB root shell<br>
+**DOWNLOAD FIRMWARE:** Link to DankDroneDownloader<br>
 
 **NOTE**: Make sure you have atleast 50% battery remaining before you begin<br>
-**FIRMWARE FILES:** https://github.com/cs2000/DankDroneDownloader
 
 Thanks to hostile, the_lord, p0v and many others for the information :)
 
