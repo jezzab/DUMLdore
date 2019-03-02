@@ -1,5 +1,7 @@
 [<img src=https://media.giphy.com/media/nQfQayikD5rX2/giphy.gif>]
 
+Download the releases here: https://github.com/jezzab/DUMLdore/releases
+
 Compatible with:<br>
 **Aircraft:** *P4, P4 Pro, Mavic, Spark, I2, Mavic Air*<br>
 **Remote Control:** *Mavic*<br>
